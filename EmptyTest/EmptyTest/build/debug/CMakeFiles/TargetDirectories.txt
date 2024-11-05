@@ -1,3 +1,0 @@
-C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/EmptyTest/EmptyTest/build/debug/CMakeFiles/EmptyTest.dir
-C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/EmptyTest/EmptyTest/build/debug/CMakeFiles/edit_cache.dir
-C:/Users/Aluno/Desktop/RepositorioLab2/Laborat-rio2/EmptyTest/EmptyTest/build/debug/CMakeFiles/rebuild_cache.dir
